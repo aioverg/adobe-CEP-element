@@ -1,0 +1,18 @@
+.container {
+  padding: 16px;
+}
+
+.heading {
+  color: blue;
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+.button {
+  margin-right: 8px;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  color: green;
+  padding: 6px 10px;
+  cursor: pointer;
+}
